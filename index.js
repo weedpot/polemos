@@ -1,0 +1,6 @@
+
+/**
+ * @module polemos
+ * @author diesweed
+ */
+
